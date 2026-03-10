@@ -6,7 +6,7 @@
 * **第一卷：数学分析基础**
   * [导论](vol1/README.md)
   * 第1章 实数系与完备性公理
-    * [1.1 自然数与Peano公理](vol1/ch01/sec01.md)
+    * [★ 1.1 自然数与Peano公理](vol1/ch01/sec01.md)
     * [1.2 整数与有理数的构造](vol1/ch01/sec02.md)
     * [1.3 有理数的不完备性](vol1/ch01/sec03.md)
     * [★ 1.4 Dedekind分割与实数定义](vol1/ch01/sec04.md)
