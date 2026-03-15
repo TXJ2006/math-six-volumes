@@ -1,12 +1,12 @@
-# 数学全书：从本科到博士的十六卷
+# CandyMath — 数学全书十六卷
 
-> **Sixteen Volumes of Mathematics: From Undergraduate to PhD**
+> **CandyMath: Sixteen Volumes of Mathematics — From Undergraduate to PhD**
 >
 > *作者：唐旭江 (Xujiang Tang)*
 
 ---
 
-欢迎来到《数学全书》。
+欢迎来到 **CandyMath**。
 
 本书试图为数学学习者提供一条 **贯穿全部核心数学思想的主干逻辑线**——从逻辑与集合的预备知识出发，经过分析、代数、方程、泛函，直达流形与李群；再深入现代优化、运筹、统计与学习理论、信息论、金融数学、非线性PDE、高级拓扑与几何、现代代数几何与算术几何、数学深水区专题，最终以科学计算、研究方法与数学史收尾。全书共 **190 章、4775 节**，覆盖从本科基础到博士研究前沿的 **全数学领域**。
 
@@ -86,4 +86,4 @@
 
 ---
 
-*© 2026 Xujiang Tang. All rights reserved.*
+*© 2026 CandyMath · Xujiang Tang. All rights reserved.*
